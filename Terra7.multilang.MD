@@ -1,0 +1,67 @@
+# Terra7
+ ✨ _For Atari 2600_ ✨
+
+Game Rules
+----------------
+Terra7 is under attack.
+The only way to stop the invading horde is to activate the satellite with the laser.
+Satellite that only comes into operation when it arrives at the set position, towards the end of the screen
+and only if the 10 batteries have been charged.
+The more enemies you destroy, the more technicians remain on Terra7 to work on battery charging procedures.
+For every 25 enemies destroyed one battery is recharged.
+The total number of enemies to be destroyed is therefore 250.
+The robot you manoeuvre has 5 shields and cannot have more than this.
+You lose a shield every time
+- you are hit by a missile
+- you collide with an enemy spaceship
+- you collide with an asteroid
+- you collide with the SmartBomb (S symbol)
+- you do not rescue an astronaut lost in space
+- you accidentally kill the astronaut lost in space
+
+You gain a shield when you collide with the Energy Module (E symbol)
+If you hit the Energy Module with your bazooka, you gain nothing.
+
+If you hit the SmartBomb, everything on the screen is destroyed.
+You automatically increase the counter of enemies killed by 3,
+regardless of what's on the screen.
+
+Whether the mission succeeds or fails, the game ends.
+
+---------------------------------------------------------------
+
+# Terra7 (TerraSette) --- Manuale in italiano 
+ ✨ _Per Atari 2600_ ✨  
+
+
+Regole del gioco
+----------------
+Terra7 è sotto attacco.
+Il solo modo di fermare l'orda di invasori è attivare il satellite con il laser.
+Satellite che entra in funzione solo quando arriva nella posizione stabilita, verso fine schermo
+e solo se le 10 batterie sono state caricate.
+Più distruggi nemici, più tecnici rimangono su Terra7 a lavorare sulle procedure di ricarica batterie.
+Ogni 25 nemici abbattuti una batteria viene ricaricata.
+I nemici totali da distruggere sono quindi 250.
+Il robot che manovri ha 5 scudi e più di questi non può avere.
+Perdi uno scudo ogni volta che:
+- vieni colpito da un missile
+- collidi con una astronave nemica
+- collidi con un asteroide
+- collidi con l'IntelliBomba (simbolo S)
+- non recuperi un astronauta disperso nello spazio
+- uccidi per sbaglio l'astronauta disperso nello spazio
+
+Guadagni uno scudo quando collidi con il modulo Energia (simbolo E)
+Se colpisci col bazooka il modulo Energia non ottieni nulla.
+
+Se colpisci l'IntelliBomba, tutto quello che c'è su schermo viene distrutto.
+In automatico ti viene aumentato di 3 il contatore di nemici uccisi,
+indipendentemente da cosa c'è sullo schermo.
+
+Che la missione abbia successo o fallisca, il gioco termina.
+
+
+
+
+  
