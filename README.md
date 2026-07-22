@@ -1,2 +1,2 @@
 # Terra7
-Assembly source code for Atari 2600 videogame
+Atari 2600 game assembly source code
